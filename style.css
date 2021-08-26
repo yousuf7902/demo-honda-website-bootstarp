@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600;800&display=swap');
+
+.background-color{
+    background-color:#264653;
+}
+.btn-color{
+    background-color:#E76F51;
+    border: none;
+}
+.special-text{
+    color:#E76F51;
+}
+.text-color{
+    color: white;
+}
+.font-pop{
+    font-family: poppins;
+}
+.font-bold{
+    font-weight: 600;
+    color: black;
+}
+.hr{
+    width: 100px;
+    height: 2px;
+    background:#E76F51;
+}
+.greyscale{
+    filter: grayscale(100%);
+}
+.clients-text{
+    color:#23A6F0;
+}
